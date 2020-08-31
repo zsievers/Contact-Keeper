@@ -33,13 +33,14 @@ router.post(
       return res.status(400).json({ errors: errors.array() });
     }
 
-    const { name, email, phone, type } = req.body;
+    const { name, email, phone, work, type } = req.body;
 
     try {
       const newContact = new Contact({
         name,
         email,
         phone,
+        work,
         type,
         user: req.user.id,
       });
@@ -58,13 +59,14 @@ router.post(
 // @desc      Update contact
 // @access    Private
 router.put('/:id', auth, async (req, res) => {
-  const { name, email, phone, type } = req.body;
+  const { name, email, phone, work, type } = req.body;
 
   // build contact object
   const contactFields = {};
   if (name) contactFields.name = name;
   if (email) contactFields.email = email;
   if (phone) contactFields.phone = phone;
+  if (work) contactFields.work = work;
   if (type) contactFields.type = type;
 
   try {
