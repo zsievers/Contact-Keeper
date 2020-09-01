@@ -1,5 +1,4 @@
 import { SET_ALERT, REMOVE_ALERT } from '../types';
-import { startSession } from 'mongoose';
 
 export default (state, action) => {
   switch (action.type) {
