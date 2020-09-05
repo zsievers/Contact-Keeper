@@ -10,11 +10,11 @@ This is a MERN (MongoDB, Express, React, Node) stack application where you can a
 
 <b>Filter and Search Contacts By Name</b>
 
-<img src="./screenshots/screens2.PNG" width="900">
+<img src="./screenshots/screens3.PNG" width="900">
 
 <b>Filter and Search Contacts By Work</b>
 
-<img src="./screenshots/screens3.PNG" width="900">
+<img src="./screenshots/screens2.PNG" width="900">
 
 <b>Filter and Search Contacts By Contact Type</b>
 
