@@ -1,15 +1,24 @@
 # Contact-Keeper
 
+<img src="./screenshots/screens5.PNG" width="900">
+
 ## About
 
 This is a MERN (MongoDB, Express, React, Node) stack application where you can add, edit and delete personal or professional contacts.
 
-<img src="./screenshots/screens1.PNG" width="650">
+<img src="./screenshots/screens1.PNG" width="900">
 
-#### Filter and Search Contacts By Name, Work and Whether It's A Professional Or Personal Contact
+<b>Filter and Search Contacts By Name</b>
 
-<img src="./screenshots/screens2.PNG" width="650">
-<img src="./screenshots/screens3.PNG" width="650">
+<img src="./screenshots/screens2.PNG" width="900">
+
+<b>Filter and Search Contacts By Work</b>
+
+<img src="./screenshots/screens3.PNG" width="900">
+
+<b>Filter and Search Contacts By Contact Type</b>
+
+<img src="./screenshots/screens4.PNG" width="900">
 
 ## Technologies Used
 
