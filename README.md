@@ -43,6 +43,6 @@ This is a MERN (MongoDB, Express, React, Node) stack application where you can a
 
 ## Future Development
 
-<li>Styling</li>
+<li>Responsive</li>
 <li>Calendar Page</li>
 <li>Birthday Alert</li>
