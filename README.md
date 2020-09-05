@@ -4,9 +4,12 @@
 
 This is a MERN (MongoDB, Express, React, Node) stack application where you can add, edit and delete personal or professional contacts.
 
-<img src="./screenshots/screens1.PNG" width="500">
-<img src="./screenshots/screens2.PNG" width="500">
-<img src="./screenshots/screens3.PNG" width="500">
+<img src="./screenshots/screens1.PNG" width="650">
+
+#### Filter and Search Contacts By Name, Work and Whether It's A Professional Or Personal Contact
+
+<img src="./screenshots/screens2.PNG" width="650">
+<img src="./screenshots/screens3.PNG" width="650">
 
 ## Technologies Used
 
